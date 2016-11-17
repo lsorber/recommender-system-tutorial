@@ -1,0 +1,9 @@
+name: recsys-env
+channels:
+ - defaults
+ - conda-forge
+dependencies:
+ - python=3.5
+ - anaconda
+ - autograd
+ - tqdm
